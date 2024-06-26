@@ -7,7 +7,7 @@ Full-Stack Developer
 Full-Stack Developer | Lifelong Learner | Challenge Seeker Equipped with a strong foundation in HTML, CSS, Python, Java, Flask, Django, Javascript, React.js, and Node.js, Docker, my web development path is marked by a zealous drive to create responsive, user-focused digital experiences. I am a self-taught professional who views every challenge as a stepping stone to mastery, evidenced by my work from minimalist templates to intricate web applications. Continuously pushing the envelope, I am committed to learning and excelling beyond the conventional, leveraging code to transform ideas into reality. I am diligent and excel in problem-solving, consistently striving to deliver the best solutions.
 
 * 🌍  I'm based in Milton Keynes U.K.
-* 🖥️  See my portfolio at [My portfolio](http://myportfolio-o3dr.onrender.com/)
+* 🖥️  See my portfolio at [My portfolio](https://wayne-chan-portfolio.netlify.app/)
 * ✉️  You can contact me at [kitkit07285@gmail.com](mailto:kitkit07285@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
