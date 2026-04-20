@@ -50,6 +50,7 @@ Capstone analytics project using **BigQuery SQL** and **Tableau** to analyse sma
 
 📌 Tools: **BigQuery, SQL, Tableau**
 👉 Repository: https://github.com/Waynexchan/bellabeat
+
 ---
 
 ## 📍 About Me
