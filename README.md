@@ -1,74 +1,72 @@
 # Hi 👋 I'm Wayne Chan
 
-**Aspiring Data Analyst | SQL | Power BI | Data Analytics**
+**Aspiring Junior Data Analyst | SQL | BigQuery | Power BI | Excel**
 
-I am an aspiring **Data Analyst based in Milton Keynes, UK**, with a strong technical background in software development and a recent completion of the **Google Data Analytics Professional Certificate**.
+I am an aspiring **Junior Data Analyst based in Milton Keynes, UK**, with hands-on project experience in **SQL, BigQuery, Power BI, Excel, and Python**.
 
-My focus is on transforming raw data into meaningful business insights through **SQL, data modelling, and dashboard visualisation**.
+I enjoy turning raw data into clear insights through **KPI reporting, dashboarding, and business-focused analysis**. My recent projects have focused on revenue trends, customer behaviour, repeat purchasing, return rate, and concentration analysis.
 
-I enjoy working with data to identify patterns, uncover opportunities, and communicate insights clearly through analytical storytelling.
-
----
-
-## 🔧 Skills
-
-**Data Analysis**
-
-* SQL (BigQuery, relational data modelling)
-* Python (Pandas for data manipulation)
-* Data Cleaning & Transformation
-* Exploratory Data Analysis
-
-**Data Visualisation**
-
-* Power BI
-* Tableau
-* Dashboard Design
-* KPI & Business Metrics Analysis
-
-**Tools**
-
-* Google BigQuery
-* Power BI
-* Python (Pandas)
-* Excel / Google Sheets
-* Git & GitHub
+I am currently building a portfolio that demonstrates my ability to clean data, structure analysis, and communicate practical recommendations through dashboards and reporting.
 
 ---
 
-## 📊 Featured Project
+## 🔧 Core Skills
+
+- SQL (BigQuery, relational modelling, KPI views)
+- Power BI
+- Excel / Google Sheets
+- Python (Pandas)
+- Tableau (basic)
+- Data cleaning and transformation
+- Dashboarding and KPI reporting
+- Trend analysis and Pareto analysis
+
+---
+
+## 📊 Featured Projects
 
 ### UK Retail Analytics Dashboard
+Retail analytics project built with **BigQuery SQL** and **Power BI**, focused on:
+- Monthly revenue trends
+- Repeat rate and return rate
+- Customer and product concentration
+- KPI reporting and dashboard design
 
-End-to-end analytics project analysing an online retail dataset using **BigQuery and Power BI**.
+📌 Tools: **BigQuery, SQL, Power BI**  
+👉 Repository: https://github.com/Waynexchan/uk-retail-analytics-dashboard
 
-Key analysis includes:
+### Wine Analytics Power BI Project
+Interactive Power BI report analysing wine reviews data, focused on:
+- Price and score analysis
+- Winery and country comparisons
+- Word analysis and descriptive insights
+- Report storytelling with bookmarks and tooltips
 
-* Revenue trend analysis
-* Product revenue concentration (Pareto / 80-20 analysis)
-* Customer purchasing behaviour
-* KPI monitoring (AOV, repeat rate, return rate)
+📌 Tools: **Power BI, Power Query, DAX**  
+👉 Repository: https://github.com/Waynexchan/Wine_powerbi_report
 
-📌 Tools: **BigQuery SQL, Power BI**
+### Bellabeat Case Study
+Capstone analytics project using **BigQuery SQL** and **Tableau** to analyse smart device usage and generate marketing recommendations.
 
-👉 Project repository:
-https://github.com/Waynexchan/uk-retail-analytics-dashboard
-
+📌 Tools: **BigQuery, SQL, Tableau**
+👉 Repository: https://github.com/Waynexchan/bellabeat
 ---
 
 ## 📍 About Me
 
-* 📍 Based in **Milton Keynes, United Kingdom**
-* 🎯 Currently seeking **Junior / Entry-Level Data Analyst opportunities**
-* 📊 Interested in **data-driven decision making and business analytics**
+- 📍 Based in **Milton Keynes, United Kingdom**
+- 🎯 Currently seeking **Junior / Entry-Level Data Analyst opportunities**
+- 📊 Interested in **reporting, dashboarding, KPI analysis, and business insight generation**
 
 ---
 
 ## 🤝 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/waynexchan
-* Email: [kitkit07285@gmail.com](mailto:kitkit07285@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/waynexchan
+- Portfolio: https://wayne-chan-portfolio.netlify.app
+- GitHub: https://github.com/Waynexchan
+- Email: kitkit07285@gmail.com
 
 ---
 
-⭐ I am currently building a portfolio of real-world data analytics projects to demonstrate my analytical thinking and technical skills.
+⭐ I am currently looking for an opportunity to apply my technical skills, business awareness, and analytical thinking in a junior data analyst role.
