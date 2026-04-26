@@ -2,18 +2,16 @@
 
 **Aspiring Junior Data Analyst | SQL | BigQuery | Power BI | Excel**
 
-I am an aspiring **Junior Data Analyst based in Milton Keynes, UK**, with hands-on project experience in **SQL, BigQuery, Power BI, Excel, and Python**.
+I am an aspiring **Junior Data Analyst based in Milton Keynes, UK**, with hands-on project experience in **SQL, BigQuery, Power BI, Excel, Python, and basic DAX**.
 
-I enjoy turning raw data into clear insights through **KPI reporting, dashboarding, and business-focused analysis**. My recent projects have focused on revenue trends, customer behaviour, repeat purchasing, return rate, and concentration analysis.
-
-I am currently building a portfolio that demonstrates my ability to clean data, structure analysis, and communicate practical recommendations through dashboards and reporting.
+My work focuses on turning raw data into clear insights through **KPI reporting, dashboarding, trend analysis, and business-focused recommendations**. I am currently building a portfolio that demonstrates my ability to clean data, structure analysis, and communicate findings clearly.
 
 ---
 
 ## 🔧 Core Skills
 
 - SQL (BigQuery, relational modelling, KPI views)
-- Power BI
+- Power BI (basic DAX, KPI measures)
 - Excel / Google Sheets
 - Python (Pandas)
 - Tableau (basic)
@@ -42,13 +40,13 @@ Interactive Power BI report analysing wine reviews data, focused on:
 - Word analysis and descriptive insights
 - Report storytelling with bookmarks and tooltips
 
-📌 Tools: **Power BI, Power Query, DAX**  
+📌 Tools: **Power BI, Power Query, basic DAX**  
 👉 Repository: https://github.com/Waynexchan/Wine_powerbi_report
 
 ### Bellabeat Case Study
 Capstone analytics project using **BigQuery SQL** and **Tableau** to analyse smart device usage and generate marketing recommendations.
 
-📌 Tools: **BigQuery, SQL, Tableau**
+📌 Tools: **BigQuery, SQL, Tableau**  
 👉 Repository: https://github.com/Waynexchan/bellabeat
 
 ---
