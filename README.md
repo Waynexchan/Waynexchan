@@ -1,71 +1,111 @@
-# Hi 👋 I'm Wayne Chan
+# Hi, I'm Wayne Chan 👋
 
-**Aspiring Junior Data Analyst | SQL | BigQuery | Power BI | Excel**
+**Junior Data Analyst Candidate | SQL | Power BI | Excel | BigQuery | Data Visualisation**
 
-I am an aspiring **Junior Data Analyst based in Milton Keynes, UK**, with hands-on project experience in **SQL, BigQuery, Power BI, Excel, Python, and basic DAX**.
+I am a UK-based data analyst candidate in Milton Keynes, building a portfolio focused on **business reporting, KPI analysis, dashboarding, and data storytelling**.
 
-My work focuses on turning raw data into clear insights through **KPI reporting, dashboarding, trend analysis, and business-focused recommendations**. I am currently building a portfolio that demonstrates my ability to clean data, structure analysis, and communicate findings clearly.
+My projects demonstrate practical experience in cleaning data, modelling datasets, writing SQL queries, building Power BI reports, defining KPIs, and communicating insights for business decision-making.
+
+I am currently seeking **Junior Data Analyst, Reporting Analyst, MI Analyst, or Commercial Analyst** opportunities where I can apply my technical skills, retail business experience, and analytical thinking.
 
 ---
 
-## 🔧 Core Skills
+## Core Skills
 
-- SQL (BigQuery, relational modelling, KPI views)
-- Power BI (basic DAX, KPI measures)
+**Data Analysis & Reporting**
+- KPI reporting and dashboard design
+- Trend analysis and business insight generation
+- Data cleaning and validation
+- Customer, product, and revenue analysis
+- Pareto analysis and performance reporting
+
+**Tools & Technologies**
+- SQL / BigQuery
+- Power BI / Power Query / DAX measures
 - Excel / Google Sheets
-- Python (Pandas)
-- Tableau (basic)
-- Data cleaning and transformation
-- Dashboarding and KPI reporting
-- Trend analysis and Pareto analysis
+- Python / Pandas
+- Tableau
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### UK Retail Analytics Dashboard
-Retail analytics project built with **BigQuery SQL** and **Power BI**, focused on:
-- Monthly revenue trends
-- Repeat rate and return rate
-- Customer and product concentration
-- KPI reporting and dashboard design
 
-📌 Tools: **BigQuery, SQL, Power BI**  
-👉 Repository: https://github.com/Waynexchan/uk-retail-analytics-dashboard
+A commercial analytics project analysing UK online retail transaction data using **BigQuery SQL** and **Power BI**.
+
+This project focuses on revenue performance, customer behaviour, repeat purchasing, product concentration, and return analysis.
+
+**Key work completed:**
+- Cleaned and transformed raw retail transaction data
+- Built SQL views for monthly revenue, repeat rate, return rate, and customer/product analysis
+- Designed a Power BI dashboard for KPI reporting and business insight
+- Separated net sales analysis from return analysis to improve KPI accuracy
+- Documented KPI definitions, assumptions, limitations, and recommendations
+
+**Tools:** BigQuery, SQL, Power BI, DAX, Data Modelling  
+**Repository:** https://github.com/Waynexchan/uk-retail-analytics-dashboard
+
+---
 
 ### Wine Analytics Power BI Project
-Interactive Power BI report analysing wine reviews data, focused on:
-- Price and score analysis
-- Winery and country comparisons
-- Word analysis and descriptive insights
-- Report storytelling with bookmarks and tooltips
 
-📌 Tools: **Power BI, Power Query, basic DAX**  
-👉 Repository: https://github.com/Waynexchan/Wine_powerbi_report
+A Power BI analytics project exploring wine reviews, pricing, scores, wineries, countries, tasters, and descriptive review words.
+
+This project demonstrates Power BI report design, Power Query transformation, data modelling, KPI creation, and basic descriptive text analysis.
+
+**Key work completed:**
+- Built a structured Power BI report with overview, winery, and word analysis pages
+- Created a cleaned data model with fact and dimension tables
+- Used Power Query to prepare wine review and description data
+- Created DAX measures for score, price, review count, and high-score analysis
+- Added supporting documentation for methodology, KPI definitions, limitations, and recommendations
+
+**Tools:** Power BI, Power Query, DAX, Data Modelling  
+**Repository:** https://github.com/Waynexchan/Wine_powerbi_report
+
+---
 
 ### Bellabeat Case Study
-Capstone analytics project using **BigQuery SQL** and **Tableau** to analyse smart device usage and generate marketing recommendations.
 
-📌 Tools: **BigQuery, SQL, Tableau**  
-👉 Repository: https://github.com/Waynexchan/bellabeat
+A Google Data Analytics capstone project analysing smart device usage data to generate marketing recommendations for a wellness technology company.
+
+**Key work completed:**
+- Cleaned and analysed smart device activity data
+- Used SQL to explore user behaviour patterns
+- Built visualisations to communicate findings
+- Developed recommendations based on activity, sleep, and usage trends
+
+**Tools:** BigQuery, SQL, Tableau  
+**Repository:** https://github.com/Waynexchan/bellabeat
 
 ---
 
-## 📍 About Me
+## Current Learning Focus
 
-- 📍 Based in **Milton Keynes, United Kingdom**
-- 🎯 Currently seeking **Junior / Entry-Level Data Analyst opportunities**
-- 📊 Interested in **reporting, dashboarding, KPI analysis, and business insight generation**
+- Microsoft Power BI Data Analyst Professional Certificate
+- Power BI data modelling and DAX
+- SQL business query patterns
+- Excel reporting and analysis
+- PL-300 preparation
 
 ---
 
-## 🤝 Connect With Me
+## About Me
+
+- Based in **Milton Keynes, United Kingdom**
+- Background in **luxury retail sales and client advisory**
+- Experienced in understanding customer behaviour, product performance, and commercial decision-making
+- Interested in **reporting, dashboarding, KPI analysis, commercial analytics, and business insight**
+
+---
+
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/waynexchan
 - Portfolio: https://wayne-chan-portfolio.netlify.app
 - GitHub: https://github.com/Waynexchan
-- Email: kitkit07285@gmail.com
 
 ---
 
-⭐ I am currently looking for an opportunity to apply my technical skills, business awareness, and analytical thinking in a junior data analyst role.
+Thank you for visiting my GitHub profile. I am currently looking for an opportunity to start my career as a Junior Data Analyst and contribute to real business reporting and insight projects.
