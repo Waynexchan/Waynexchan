@@ -1,111 +1,195 @@
 # Hi, I'm Wayne Chan 👋
 
-**Junior Data Analyst Candidate | SQL | Power BI | Excel | BigQuery | Data Visualisation**
+### Junior Data Analyst | Business Intelligence | SQL | Power BI | Excel | BigQuery | Python
 
-I am a UK-based data analyst candidate in Milton Keynes, building a portfolio focused on **business reporting, KPI analysis, dashboarding, and data storytelling**.
+I'm a UK-based aspiring Data Analyst based in **Milton Keynes**, passionate about transforming raw data into meaningful business insights.
 
-My projects demonstrate practical experience in cleaning data, modelling datasets, writing SQL queries, building Power BI reports, defining KPIs, and communicating insights for business decision-making.
+My portfolio focuses on **business reporting, KPI analysis, dashboard development, commercial analytics, and data storytelling**, using SQL, Power BI, BigQuery, Excel, and Python to solve real business problems.
 
-I am currently seeking **Junior Data Analyst, Reporting Analyst, MI Analyst, or Commercial Analyst** opportunities where I can apply my technical skills, retail business experience, and analytical thinking.
+With seven years of commercial experience in luxury retail, I enjoy combining business understanding with analytical thinking to help organisations make better data-driven decisions.
+
+I am currently seeking opportunities as a:
+
+- Junior Data Analyst
+- Reporting Analyst
+- MI Analyst
+- Business Intelligence Analyst
+- Commercial Analyst
 
 ---
 
-## Core Skills
+# Technical Skills
 
-**Data Analysis & Reporting**
-- KPI reporting and dashboard design
-- Trend analysis and business insight generation
-- Data cleaning and validation
-- Customer, product, and revenue analysis
-- Pareto analysis and performance reporting
+### Data Analysis
+- KPI Reporting
+- Business Performance Analysis
+- Customer Behaviour Analysis
+- Revenue & Sales Analysis
+- Trend Analysis
+- Data Validation
+- Data Storytelling
 
-**Tools & Technologies**
-- SQL / BigQuery
-- Power BI / Power Query / DAX measures
-- Excel / Google Sheets
-- Python / Pandas
+### SQL & Databases
+- SQL
+- BigQuery
+- Joins
+- CTEs
+- Window Functions
+- Aggregations
+
+### Business Intelligence
+- Power BI
+- Power Query
+- DAX
+- Data Modelling
+- Dashboard Design
 - Tableau
 
----
+### Programming
+- Python
+- Pandas
+- NumPy
 
-## Featured Projects
-
-### UK Retail Analytics Dashboard
-
-A commercial analytics project analysing UK online retail transaction data using **BigQuery SQL** and **Power BI**.
-
-This project focuses on revenue performance, customer behaviour, repeat purchasing, product concentration, and return analysis.
-
-**Key work completed:**
-- Cleaned and transformed raw retail transaction data
-- Built SQL views for monthly revenue, repeat rate, return rate, and customer/product analysis
-- Designed a Power BI dashboard for KPI reporting and business insight
-- Separated net sales analysis from return analysis to improve KPI accuracy
-- Documented KPI definitions, assumptions, limitations, and recommendations
-
-**Tools:** BigQuery, SQL, Power BI, DAX, Data Modelling  
-**Repository:** https://github.com/Waynexchan/uk-retail-analytics-dashboard
+### Productivity
+- Excel
+- Google Sheets
+- Git
+- GitHub
 
 ---
 
-### Wine Analytics Power BI Project
+# Featured Projects
 
-A Power BI analytics project exploring wine reviews, pricing, scores, wineries, countries, tasters, and descriptive review words.
+## UK Retail Analytics Dashboard
 
-This project demonstrates Power BI report design, Power Query transformation, data modelling, KPI creation, and basic descriptive text analysis.
+**Business Problem**
 
-**Key work completed:**
-- Built a structured Power BI report with overview, winery, and word analysis pages
-- Created a cleaned data model with fact and dimension tables
-- Used Power Query to prepare wine review and description data
-- Created DAX measures for score, price, review count, and high-score analysis
-- Added supporting documentation for methodology, KPI definitions, limitations, and recommendations
+The business lacked a clear understanding of customer purchasing behaviour, revenue performance, repeat purchasing, and product returns.
 
-**Tools:** Power BI, Power Query, DAX, Data Modelling  
-**Repository:** https://github.com/Waynexchan/Wine_powerbi_report
+**Solution**
 
----
+Developed an end-to-end reporting solution using **BigQuery SQL** and **Power BI**, providing interactive dashboards and KPI reporting for commercial decision-making.
 
-### Bellabeat Case Study
+**Highlights**
 
-A Google Data Analytics capstone project analysing smart device usage data to generate marketing recommendations for a wellness technology company.
+- Cleaned and transformed transactional retail data
+- Built SQL views for customer, product and revenue analysis
+- Designed interactive Power BI dashboards
+- Created DAX measures for commercial KPIs
+- Performed Pareto analysis for customer segmentation
+- Separated gross sales and returns to improve reporting accuracy
 
-**Key work completed:**
-- Cleaned and analysed smart device activity data
-- Used SQL to explore user behaviour patterns
-- Built visualisations to communicate findings
-- Developed recommendations based on activity, sleep, and usage trends
+**Tools**
 
-**Tools:** BigQuery, SQL, Tableau  
-**Repository:** https://github.com/Waynexchan/bellabeat
+BigQuery • SQL • Power BI • DAX • Power Query
+
+Repository:
+https://github.com/Waynexchan/uk-retail-analytics-dashboard
 
 ---
 
-## Current Learning Focus
+## Wine Analytics Dashboard
 
-- Microsoft Power BI Data Analyst Professional Certificate
-- Power BI data modelling and DAX
-- SQL business query patterns
-- Excel reporting and analysis
-- PL-300 preparation
+**Business Problem**
+
+Explore pricing, review scores, wineries, countries and customer preferences within a large wine review dataset.
+
+**Solution**
+
+Built a Power BI dashboard to analyse product performance, regional trends and review behaviour.
+
+**Highlights**
+
+- Data modelling using fact & dimension tables
+- Power Query data transformation
+- DAX KPI measures
+- Interactive dashboard design
+- Business recommendations based on analytical findings
+
+**Tools**
+
+Power BI • Power Query • DAX
+
+Repository:
+https://github.com/Waynexchan/Wine_powerbi_report
 
 ---
 
-## About Me
+## Bellabeat Case Study
 
-- Based in **Milton Keynes, United Kingdom**
-- Background in **luxury retail sales and client advisory**
-- Experienced in understanding customer behaviour, product performance, and commercial decision-making
-- Interested in **reporting, dashboarding, KPI analysis, commercial analytics, and business insight**
+Google Data Analytics Capstone project analysing smart device usage data to generate marketing recommendations.
+
+**Highlights**
+
+- SQL analysis using BigQuery
+- Customer behaviour analysis
+- Tableau visualisation
+- Business recommendations supported by data
+
+**Tools**
+
+BigQuery • SQL • Tableau
+
+Repository:
+https://github.com/Waynexchan/bellabeat
 
 ---
 
-## Connect With Me
+# Current Learning
 
-- LinkedIn: https://www.linkedin.com/in/waynexchan
-- Portfolio: https://wayne-chan-portfolio.netlify.app
-- GitHub: https://github.com/Waynexchan
+I'm continuously improving my technical skills through hands-on projects and structured learning.
+
+Current focus:
+
+- ✅ Microsoft PL-300 (Power BI Data Analyst)
+- ✅ Advanced DAX
+- ✅ Data Modelling Best Practices
+- ✅ SQL Performance & Query Optimisation
+- ✅ Microsoft Fabric
+- ✅ Azure Data Fundamentals
+- ✅ Python for Data Analytics
 
 ---
 
-Thank you for visiting my GitHub profile. I am currently looking for an opportunity to start my career as a Junior Data Analyst and contribute to real business reporting and insight projects.
+# Business Domains
+
+I particularly enjoy working on projects involving:
+
+- Commercial Analytics
+- KPI Reporting
+- Sales Performance
+- Customer Analytics
+- Operational Reporting
+- Business Intelligence
+- Dashboard Development
+- Management Information (MI)
+
+---
+
+# About Me
+
+Outside of analytics, I bring seven years of commercial retail experience where I developed strong stakeholder communication, commercial awareness and customer insight skills.
+
+I'm passionate about turning business questions into clear reports, dashboards and actionable recommendations.
+
+---
+
+# Connect With Me
+
+LinkedIn
+
+https://www.linkedin.com/in/waynexchan
+
+Portfolio
+
+https://wayne-chan-portfolio.netlify.app
+
+GitHub
+
+https://github.com/Waynexchan
+
+---
+
+Thanks for visiting my profile!
+
+I'm always learning, building new projects, and looking for opportunities to contribute to real business reporting and analytics challenges.
