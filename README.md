@@ -11,21 +11,21 @@ I use **Power BI, SQL, Excel and Python** to turn business data into practical i
 
 Built an end-to-end retail analytics case study covering £21M in revenue, with interactive reporting across sales performance, seasonality, product and customer concentration, repeat purchasing and returns.
 
-→ [View UK Retail Analytics Dashboard]([YOUR_GITHUB_PROJECT_URL](https://github.com/Waynexchan/uk-retail-analytics-dashboard))
+→ [View UK Retail Analytics Dashboard](https://github.com/Waynexchan/uk-retail-analytics-dashboard)
 
 ### Stock Screener
 **Python | Pandas | Market Data APIs | Excel**
 
 Built a repeatable rules-based workflow for collecting, cleaning and scoring market data, with review flags and audit fields to support structured investment screening.
 
-→ [View Stock Screener]([YOUR_STOCK_SCREENER_URL](https://github.com/Waynexchan/stock_screener))
+→ [View Stock Screener](https://github.com/Waynexchan/stock_screener)
 
 ### Bellabeat Customer Behaviour Analysis
 **SQL | BigQuery | Tableau**
 
 Analysed customer behaviour data to identify usage patterns and translate findings into customer engagement and marketing recommendations.
 
-→ [View Bellabeat Analysis]([YOUR_BELLABEAT_URL](https://github.com/Waynexchan/bellabeat))
+→ [View Bellabeat Analysis](https://github.com/Waynexchan/bellabeat)
 
 ## Tools
 
