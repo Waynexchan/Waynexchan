@@ -44,4 +44,4 @@ A repeatable workflow for collecting, cleaning and scoring market data, with rev
 
 Business Economics graduate, with the **Microsoft Power BI Data Analyst Professional Certificate** and **Google Data Analytics Professional Certificate**.
 
-📍 Milton Keynes, UK · Full right to work in the UK · No visa sponsorship required
+📍 Milton Keynes, UK · Full right to work in the UK · No visa sponsorship required · One month notice period
