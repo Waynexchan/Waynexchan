@@ -1,40 +1,47 @@
 # Hi, I'm Wayne Chan 👋
 
-I'm a commercially experienced professional based in the UK, combining a background in sales, e-commerce and operations with hands-on data analytics skills.
+**Commercial experience. Customer understanding. Analytical thinking.**
 
-I use **Power BI, SQL, Excel and Python** to turn business data into practical insights around revenue, customer behaviour, retention and commercial performance.
+I'm a commercial and client relationship professional based in Milton Keynes, UK, with experience across luxury retail, e-commerce, financial services and logistics. I combine relationship-led selling, customer follow-up and operational coordination with hands-on analytics skills in **Power BI, SQL and Excel**.
 
-## Featured Projects
+I'm exploring **Account Management, Customer Success, Sales Operations and Commercial/Sales Analyst** opportunities where I can connect customer needs, commercial priorities and clear reporting.
 
-### UK Retail Analytics Dashboard
-**Power BI | SQL | BigQuery | Power Query | DAX**
+[LinkedIn](https://www.linkedin.com/in/waynexchan/) · [Portfolio](https://wayne-chan-portfolio.netlify.app)
 
-Built an end-to-end retail analytics case study covering £21M in revenue, with interactive reporting across sales performance, seasonality, product and customer concentration, repeat purchasing and returns.
+## Commercial background
 
-→ [View UK Retail Analytics Dashboard](https://github.com/Waynexchan/uk-retail-analytics-dashboard)
+- Achieved **£1m in individual sales at Ferragamo in 2025**, with recognition as a top performer.
+- Founded and operated **S&W Luxury 9195 (October 2017–January 2026)**, reaching **peak monthly sales of approximately HK$1m during 2018–2020**. Managed pricing, customer acquisition, sourcing, fulfilment and after-sales support.
+- Managed and coached an **eight-person insurance sales team**, maintaining an **80%+ team policy renewal/persistency rate**.
+- Coordinated cross-border logistics, customer communication and changing delivery requirements.
 
-### Stock Screener
-**Python | Pandas | Market Data APIs | Excel**
+## Featured analytics projects
 
-Built a repeatable rules-based workflow for collecting, cleaning and scoring market data, with review flags and audit fields to support structured investment screening.
+These portfolio projects show how I approach business questions, validate data and communicate findings.
 
-→ [View Stock Screener](https://github.com/Waynexchan/stock_screener)
+### [UK Retail Analytics | Sales & Customer Insights](https://github.com/Waynexchan/uk-retail-analytics-dashboard)
+**SQL · BigQuery · Power BI · Power Query · DAX**
 
-### Bellabeat Customer Behaviour Analysis
-**SQL | BigQuery | Tableau**
+An end-to-end case study analysing approximately **£21m in dataset revenue, 40K+ orders and 5.9K customers**. A four-page dashboard explores sales seasonality, product and customer concentration, repeat purchasing and returns, with recommendations for inventory planning and customer retention.
 
-Analysed customer behaviour data to identify usage patterns and translate findings into customer engagement and marketing recommendations.
+### [Bellabeat | Customer Behaviour Analysis](https://github.com/Waynexchan/bellabeat)
+**SQL · BigQuery · Tableau**
 
-→ [View Bellabeat Analysis](https://github.com/Waynexchan/bellabeat)
+Analysed Fitbit usage data to explore activity, sleep and calorie patterns and develop customer engagement and marketing recommendations. Findings are interpreted with attention to the small sample and limited demographic coverage.
 
-## Tools
+### [Stock Screener | Python Data Workflow](https://github.com/Waynexchan/stock_screener)
+**Python · pandas · Market Data APIs · Excel**
 
-**Analytics & BI:** Power BI • Excel • Tableau  
-**Data:** SQL • BigQuery • Power Query • DAX  
-**Programming:** Python • Pandas
+A repeatable workflow for collecting, cleaning and scoring market data, with review flags and audit fields to support structured screening. Demonstrates data preparation, automation and traceable reporting.
 
-## Current Focus
+## Skills and tools
 
-I'm continuing to develop my skills in **commercial analytics, business intelligence and customer analytics**, with a focus on turning data into clear business decisions.
+- **Commercial & customer:** Client relationships, CRM/clienteling, sales performance, customer follow-up, e-commerce operations and team coaching.
+- **Analytics & reporting:** Power BI, Excel, SQL, BigQuery, Power Query, DAX and Tableau.
+- **Additional technical skills:** Python and pandas for data preparation and analysis.
 
-📍 Milton Keynes, UK
+## Qualifications and availability
+
+Business Economics graduate, with the **Microsoft Power BI Data Analyst Professional Certificate** and **Google Data Analytics Professional Certificate**.
+
+📍 Milton Keynes, UK · Full right to work in the UK · No visa sponsorship required
