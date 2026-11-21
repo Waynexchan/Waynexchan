@@ -1,47 +1,26 @@
-# Hi, I'm Wayne Chan 👋
+# Wayne Chan
 
-**Commercial experience. Customer understanding. Analytical thinking.**
+Microsoft Certified Power BI Data Analyst Associate based in Milton Keynes, UK. I build analytics projects with Power BI, BigQuery SQL, Python and Excel. My background in retail and e-commerce helps me frame questions about revenue, demand and customer behaviour.
 
-I'm a commercial and client relationship professional based in Milton Keynes, UK, with experience across luxury retail, e-commerce, financial services and logistics. I combine relationship-led selling, customer follow-up and operational coordination with hands-on analytics skills in **Power BI, SQL and Excel**.
+[Portfolio](https://wayne-chan-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/waynexchan/)
 
-I'm exploring **Account Management, Customer Success, Sales Operations and Commercial/Sales Analyst** opportunities where I can connect customer needs, commercial priorities and clear reporting.
+## Selected analytics projects
 
-[LinkedIn](https://www.linkedin.com/in/waynexchan/) · [Portfolio](https://wayne-chan-portfolio.netlify.app)
+| Project | What to review | Tools |
+| --- | --- | --- |
+| [UK Retail Analytics Dashboard](https://github.com/Waynexchan/uk-retail-analytics-dashboard) | Four-page report, sales and customer KPIs, SQL staging and reporting tables | Power BI, BigQuery SQL, Power Query, DAX |
+| [UK Online Retail Pandas Analysis](https://github.com/Waynexchan/uk-online-retail-pandas) | Notebook covering data preparation, revenue, products, customers and cancellations | Python, pandas, Jupyter |
+| [Bellabeat Customer Behaviour Analysis](https://github.com/Waynexchan/bellabeat) | Wearable-data case study with SQL summaries, Tableau charts and engagement recommendations | BigQuery SQL, Tableau |
 
-## Commercial background
+## Skills
 
-- Achieved **£1m in individual sales at Ferragamo in 2025**, with recognition as a top performer.
-- Founded and operated **S&W Luxury 9195 (October 2017–January 2026)**, reaching **peak monthly sales of approximately HK$1m during 2018–2020**. Managed pricing, customer acquisition, sourcing, fulfilment and after-sales support.
-- Managed and coached an **eight-person insurance sales team**, maintaining an **80%+ team policy renewal/persistency rate**.
-- Coordinated cross-border logistics, customer communication and changing delivery requirements.
+- **Data preparation:** SQL joins and aggregations, Power Query, Python and pandas, data quality checks.
+- **Modelling and reporting:** fact and dimension tables, Power BI, DAX, Excel, Tableau, KPI definitions and validation.
+- **Commercial background:** approximately £1m in individual sales at Ferragamo in 2025, plus experience running an independent e-commerce business and reviewing sales, stock and customer information.
 
-## Featured analytics projects
+## Certifications
 
-These portfolio projects show how I approach business questions, validate data and communicate findings.
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-gb/waikitchan-0563/BEB294CB30D28B88?sharingId) · November 2026
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/VT0M6172RE7I)
 
-### [UK Retail Analytics | Sales & Customer Insights](https://github.com/Waynexchan/uk-retail-analytics-dashboard)
-**SQL · BigQuery · Power BI · Power Query · DAX**
-
-An end-to-end case study analysing approximately **£21m in dataset revenue, 40K+ orders and 5.9K customers**. A four-page dashboard explores sales seasonality, product and customer concentration, repeat purchasing and returns, with recommendations for inventory planning and customer retention.
-
-### [Bellabeat | Customer Behaviour Analysis](https://github.com/Waynexchan/bellabeat)
-**SQL · BigQuery · Tableau**
-
-Analysed Fitbit usage data to explore activity, sleep and calorie patterns and develop customer engagement and marketing recommendations. Findings are interpreted with attention to the small sample and limited demographic coverage.
-
-### [Stock Screener | Python Data Workflow](https://github.com/Waynexchan/stock_screener)
-**Python · pandas · Market Data APIs · Excel**
-
-A repeatable workflow for collecting, cleaning and scoring market data, with review flags and audit fields to support structured screening. Demonstrates data preparation, automation and traceable reporting.
-
-## Skills and tools
-
-- **Commercial & customer:** Client relationships, CRM/clienteling, sales performance, customer follow-up, e-commerce operations and team coaching.
-- **Analytics & reporting:** Power BI, Excel, SQL, BigQuery, Power Query, DAX and Tableau.
-- **Additional technical skills:** Python and pandas for data preparation and analysis.
-
-## Qualifications and availability
-
-Business Economics graduate, with the **Microsoft Power BI Data Analyst Professional Certificate** and **Google Data Analytics Professional Certificate**.
-
-📍 Milton Keynes, UK · Full right to work in the UK · No visa sponsorship required · One month notice period
+I’m interested in junior and associate Data Analyst, BI, Reporting, Operations and Commercial Analyst roles. Milton Keynes is my first choice for hybrid work, with Birmingham and London considered depending on the opportunity.
